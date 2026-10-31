@@ -13,7 +13,7 @@ Write with a pen tablet or a mouse, annotate PDFs, teach on a blackboard, and sh
 ![Python](https://img.shields.io/badge/python-3.9%2B-355e4a)
 ![Dependencies](https://img.shields.io/badge/runtime%20deps-1%20optional-8a6d3b)
 
-[Français](README.fr.md) · [Install](#install) · [Features](#features) · [Teaching with VanoNote](#teaching-with-vanonote) · [FAQ](#faq)
+[**Download**](https://github.com/yassine-aitmohamed/VanoNote/releases/latest) · [Français](README.fr.md) · [Install](#install) · [Features](#features) · [Teaching with VanoNote](#teaching-with-vanonote) · [FAQ](#faq)
 
 <img src="assets/01-handwritten-note.jpg" alt="A handwritten calculus note in VanoNote" width="100%">
 
@@ -90,7 +90,9 @@ VanoNote was built for exactly that work:
 
 ## Install
 
-**macOS or Linux**, in a terminal:
+**Easiest:** download **[VanoNote-1.0.0.zip](https://github.com/yassine-aitmohamed/VanoNote/releases/latest)**, unzip it, move the `VanoNote` folder where you want to keep it, and double-click `Install VanoNote (Mac).command` or `Install VanoNote (Windows).bat`. The included `INSTALL.txt` explains the security prompt that macOS and Windows show the first time.
+
+**Or with one command.** On macOS or Linux, in a terminal:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/yassine-aitmohamed/VanoNote/main/install.sh | bash
