@@ -12,7 +12,7 @@
 ![Plateformes](https://img.shields.io/badge/plateformes-macOS%20%7C%20Windows%20%7C%20Linux-7a5c2e)
 ![Python](https://img.shields.io/badge/python-3.9%2B-355e4a)
 
-[English](README.md) · [Installation](#installation) · [Fonctionnalités](#fonctionnalités) · [Enseigner avec VanoNote](#enseigner-avec-vanonote) · [FAQ](#faq)
+[**Télécharger**](https://github.com/yassine-aitmohamed/VanoNote/releases/latest) · [English](README.md) · [Installation](#installation) · [Fonctionnalités](#fonctionnalités) · [Enseigner avec VanoNote](#enseigner-avec-vanonote) · [FAQ](#faq)
 
 <img src="assets/01-handwritten-note.jpg" alt="Une note manuscrite de calcul dans VanoNote" width="100%">
 
@@ -87,7 +87,9 @@ VanoNote est fait pour ce travail-là :
 
 ## Installation
 
-**macOS ou Linux**, dans un terminal :
+**Le plus simple :** téléchargez **[VanoNote-1.0.0.zip](https://github.com/yassine-aitmohamed/VanoNote/releases/latest)**, décompressez-le, placez le dossier `VanoNote` où vous voulez le garder, puis double-cliquez sur `Install VanoNote (Mac).command` ou `Install VanoNote (Windows).bat`. Le fichier `INSTALL.txt` inclus explique l'avertissement de sécurité que macOS et Windows affichent la première fois.
+
+**Ou en une commande.** Sur macOS ou Linux, dans un terminal :
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/yassine-aitmohamed/VanoNote/main/install.sh | bash
