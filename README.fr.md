@@ -14,7 +14,7 @@
 
 [English](README.md) · [Installation](#installation) · [Fonctionnalités](#fonctionnalités) · [Enseigner avec VanoNote](#enseigner-avec-vanonote) · [FAQ](#faq)
 
-<img src="docs/screenshots/01-handwritten-note.jpg" alt="Une note manuscrite de calcul dans VanoNote" width="100%">
+<img src="assets/01-handwritten-note.jpg" alt="Une note manuscrite de calcul dans VanoNote" width="100%">
 
 </div>
 
@@ -38,24 +38,24 @@ VanoNote est fait pour ce travail-là :
 
 <table>
 <tr>
-<td width="50%"><img src="docs/screenshots/02-pdf-annotation.jpg" alt="Annotation d'une feuille d'exercices en PDF"></td>
-<td width="50%"><img src="docs/screenshots/03-blackboard.jpg" alt="Papier tableau noir"></td>
+<td width="50%"><img src="assets/02-pdf-annotation.jpg" alt="Annotation d'une feuille d'exercices en PDF"></td>
+<td width="50%"><img src="assets/03-blackboard.jpg" alt="Papier tableau noir"></td>
 </tr>
 <tr>
 <td><b>Annoter PDF et diapositives.</b> Importez un PDF, une image, un fichier Word ou PowerPoint et écrivez directement sur les pages.</td>
 <td><b>Tableau noir et cinq autres papiers.</b> Vierge, ligné, quadrillé, pointillé, Cornell et tableau noir, par page ou pour toute la note.</td>
 </tr>
 <tr>
-<td><img src="docs/screenshots/04-present-mode.jpg" alt="Mode présentation"></td>
-<td><img src="docs/screenshots/05-share-with-students.jpg" alt="Lien en direct pour les élèves"></td>
+<td><img src="assets/04-present-mode.jpg" alt="Mode présentation"></td>
+<td><img src="assets/05-share-with-students.jpg" alt="Lien en direct pour les élèves"></td>
 </tr>
 <tr>
 <td><b>Mode présentation.</b> Une touche (<code>F</code>) transforme la page en tableau plein écran pour Zoom, Meet, Teams ou un projecteur.</td>
 <td><b>Lien en direct pour les élèves.</b> Les élèves suivent la page dans leur navigateur, en lecture seule ou en mode collaboratif, sans rien installer.</td>
 </tr>
 <tr>
-<td><img src="docs/screenshots/06-flashcards.jpg" alt="Cartes de révision"></td>
-<td><img src="docs/screenshots/09-night-theme.jpg" alt="Thème Night"></td>
+<td><img src="assets/06-flashcards.jpg" alt="Cartes de révision"></td>
+<td><img src="assets/09-night-theme.jpg" alt="Thème Night"></td>
 </tr>
 <tr>
 <td><b>Outils de révision.</b> Résumé, cartes à trous et quiz construits à partir de vos notes tapées et de la transcription, entièrement hors ligne.</td>
