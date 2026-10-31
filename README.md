@@ -15,7 +15,7 @@ Write with a pen tablet or a mouse, annotate PDFs, teach on a blackboard, and sh
 
 [Français](README.fr.md) · [Install](#install) · [Features](#features) · [Teaching with VanoNote](#teaching-with-vanonote) · [FAQ](#faq)
 
-<img src="docs/screenshots/01-handwritten-note.jpg" alt="A handwritten calculus note in VanoNote" width="100%">
+<img src="assets/01-handwritten-note.jpg" alt="A handwritten calculus note in VanoNote" width="100%">
 
 </div>
 
@@ -39,24 +39,24 @@ VanoNote was built for exactly that work:
 
 <table>
 <tr>
-<td width="50%"><img src="docs/screenshots/02-pdf-annotation.jpg" alt="Annotating a PDF worksheet"></td>
-<td width="50%"><img src="docs/screenshots/03-blackboard.jpg" alt="Blackboard paper for teaching"></td>
+<td width="50%"><img src="assets/02-pdf-annotation.jpg" alt="Annotating a PDF worksheet"></td>
+<td width="50%"><img src="assets/03-blackboard.jpg" alt="Blackboard paper for teaching"></td>
 </tr>
 <tr>
 <td><b>Annotate PDFs and slides.</b> Import a PDF, an image, or a Word or PowerPoint file and write directly on its pages.</td>
 <td><b>Blackboard and five other papers.</b> Blank, ruled, grid, dots, Cornell and blackboard, per page or for the whole note.</td>
 </tr>
 <tr>
-<td><img src="docs/screenshots/04-present-mode.jpg" alt="Presentation mode"></td>
-<td><img src="docs/screenshots/05-share-with-students.jpg" alt="Share a live link with students"></td>
+<td><img src="assets/04-present-mode.jpg" alt="Presentation mode"></td>
+<td><img src="assets/05-share-with-students.jpg" alt="Share a live link with students"></td>
 </tr>
 <tr>
 <td><b>Presentation mode.</b> One key (<code>F</code>) turns the page into a full-screen whiteboard for Zoom, Meet, Teams or a projector.</td>
 <td><b>Live link for students.</b> Students follow the page in their browser, read-only or collaborative. No install on their side.</td>
 </tr>
 <tr>
-<td><img src="docs/screenshots/06-flashcards.jpg" alt="Flashcards generated from typed notes"></td>
-<td><img src="docs/screenshots/09-night-theme.jpg" alt="Night theme with typed notes"></td>
+<td><img src="assets/06-flashcards.jpg" alt="Flashcards generated from typed notes"></td>
+<td><img src="assets/09-night-theme.jpg" alt="Night theme with typed notes"></td>
 </tr>
 <tr>
 <td><b>Study tools.</b> A summary, fill-in-the-blank flashcards and a quiz built from your typed notes and transcript, entirely offline.</td>
@@ -86,7 +86,7 @@ VanoNote was built for exactly that work:
 - Export a note as a `.vnote` file and import it on another computer
 - Print or save any note as PDF
 
-<p align="center"><img src="docs/screenshots/07-paper-templates.jpg" alt="Paper templates" width="49%"> <img src="docs/screenshots/08-library.jpg" alt="Note library" width="49%"></p>
+<p align="center"><img src="assets/07-paper-templates.jpg" alt="Paper templates" width="49%"> <img src="assets/08-library.jpg" alt="Note library" width="49%"></p>
 
 ## Install
 
